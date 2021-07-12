@@ -4,8 +4,16 @@
 
 [![CI Status](https://img.shields.io/travis/gokulnair2001/ConfettiKit.svg?style=flat)](https://travis-ci.org/gokulnair2001/ConfettiKit)
 [![Version](https://img.shields.io/cocoapods/v/ConfettiKit.svg?style=flat)](https://cocoapods.org/pods/ConfettiKit)
-[![License](https://img.shields.io/cocoapods/l/ConfettiKit.svg?style=flat)](https://cocoapods.org/pods/ConfettiKit)
+![Badges](https://img.shields.io/badge/License-MIT-yellow) 
 [![Platform](https://img.shields.io/cocoapods/p/ConfettiKit.svg?style=flat)](https://cocoapods.org/pods/ConfettiKit)
+[![Relative date](https://img.shields.io/date/1577392258?color=important&label=started&logo=github)](https://github.com/gokulnair2001/ConfettiKit) 
+[![Maintenance](https://img.shields.io/maintenance/yes/2021?color=green&logo=github)](https://github.com/gokulnair2001/ConfettiKit)
+![commit](https://img.shields.io/github/commits-since/gokulnair2001/ConfettiKit/1.0.0/master)
+![contributors](https://img.shields.io/github/contributors/gokulnair2001/ConfettiKit)
+![Badge](https://img.shields.io/badge/Xcode-12.0-green)
+![badge](https://img.shields.io/badge/Swift-5.0-red)
+![Badge](https://img.shields.io/badge/LibSize-3kb-brown)
+![Watchers](https://img.shields.io/github/watchers/gokulnair2001/ConfettiKit?label=Watch)
 
 ## About 📒
 ConfettiKit is a custom framework used to add Confetti on your iOS/iPadOS projects. The kit provides variety of customisations inorder to design a confetti which matches your project's UI. ConfettiKit makes your work of adding Confetti on your project with just one line of code.
