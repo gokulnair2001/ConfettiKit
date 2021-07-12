@@ -1,0 +1,6 @@
+framework module ConfettiKit {
+  umbrella header "ConfettiKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

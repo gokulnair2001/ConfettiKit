@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ConfettiKit_Example' do
+  pod 'ConfettiKit', :path => '../'
+
+  target 'ConfettiKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

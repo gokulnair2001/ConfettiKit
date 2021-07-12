@@ -1,0 +1,16 @@
+PODS:
+  - ConfettiKit (0.1.0)
+
+DEPENDENCIES:
+  - ConfettiKit (from `../`)
+
+EXTERNAL SOURCES:
+  ConfettiKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConfettiKit: 5f52799d5e87bf79c12861e9bed2081043ec7fb1
+
+PODFILE CHECKSUM: 4596e6dcf734fbd960e0111c103f56034f50e18f
+
+COCOAPODS: 1.10.1
