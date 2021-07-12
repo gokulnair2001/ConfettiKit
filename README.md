@@ -37,13 +37,13 @@ To install it, simply add the following line to your Podfile:
 ```ruby
 pod 'ConfettiKit'
 ```
-## Don't want to use CocoaPods❗️
+## No CocoaPods❗️
 <details>
 <summary>
  I have a solution 👀
 </summary>
  
- * Add this [Confetti.swift file](https://github.com/Loafjet/Loafjet/tree/master/Source) into your project.</br>
+ * Add this [Confetti.swift file](https://github.com/gokulnair2001/ConfettiKit/tree/master/Sources) into your project.</br>
  * Now you are ready to use ConfettiKit 🚀.</br>
  * Remaining steps are same 😁.</br>
  * Do read the documentation till the end to know more about ConfettiKit 💪🏼 </br>
@@ -51,17 +51,17 @@ pod 'ConfettiKit'
 </details>
 
 ## Usage ⚙️
-1. Import Library
+1. Import Library 📚
 ```swift
 import ConfettiKit
 ```
-2. Generate Confetti
+2. Generate Confetti 🎉
 * Write this one line of code and add the parameters according to your specifications.
 
 ```swift
 Confetti.generateConfetti(ConfettiPosition:Position, ConfettiCells:Int, ConfettiImage:[String], Colours:[UIColor], Scale:CGFloat ,BirthRate: Float, LifeTime:Float, Velocity:CGFloat, Spin:CGFloat, EmissionLongitude:CGFloat = CGFloat(Double.pi), EmissionRange:CGFloat, View: UIView)
 ```
-### Parameters 🎚
+### Parameters 🎛
 
 <table>
 <tr><td>
@@ -89,9 +89,9 @@ Confetti.generateConfetti(ConfettiPosition:Position, ConfettiCells:Int, Confetti
 </td></tr> </table>
 
 ## Result 💯
-| Customization 1 | Customization 2 | Customization 3 |
+| Customization 1 | Customization 2 | Customization 3 | Customization 4 |
 |-- | -- | -- |
-<img src="https://user-images.githubusercontent.com/56252259/125240695-1070bf00-e308-11eb-9091-bba322642216.gif" width="250" height="550"/> | <img src="https://user-images.githubusercontent.com/56252259/125241249-d5bb5680-e308-11eb-96d2-00425b13896a.gif" width="250" height="550"/> | <img src="https://user-images.githubusercontent.com/56252259/125241369-f97e9c80-e308-11eb-83a4-a1627c9949f8.gif" width="250" height="550"/>
+<img src="https://user-images.githubusercontent.com/56252259/125240695-1070bf00-e308-11eb-9091-bba322642216.gif" width="250" height="550"/> | <img src="https://user-images.githubusercontent.com/56252259/125241249-d5bb5680-e308-11eb-96d2-00425b13896a.gif" width="250" height="550"/> | <img src="https://user-images.githubusercontent.com/56252259/125241369-f97e9c80-e308-11eb-83a4-a1627c9949f8.gif" width="250" height="550"/> | <img src="" width="250" height="550"/>
 
 ## How to Stop Confetti ? ❌
 * To stop confetti just write this one line of code
