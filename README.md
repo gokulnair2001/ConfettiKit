@@ -89,10 +89,9 @@ Confetti.generateConfetti(ConfettiPosition:Position, ConfettiCells:Int, Confetti
 </td></tr> </table>
 
 ## Result 💯
-| Customization 1 | Customization 2 | Customization 3 | Customization 4 |
-|-- | -- | -- | -- |
-<img src="https://user-images.githubusercontent.com/56252259/125240695-1070bf00-e308-11eb-9091-bba322642216.gif" width="250" height="500"/> | <img src="https://user-images.githubusercontent.com/56252259/125241249-d5bb5680-e308-11eb-96d2-00425b13896a.gif" width="250" height="500"/> | <img src="https://user-images.githubusercontent.com/56252259/125241369-f97e9c80-e308-11eb-83a4-a1627c9949f8.gif" width="250" height="500"/> | <img src="https://user-images.githubusercontent.com/56252259/125264368-6bfb7680-e321-11eb-9ea1-95cb8f94255d.gif" width="250" height="500"/>
-
+| Customization 1 | Customization 2 | Customization 3 |
+|-- | -- | -- |
+<img src="https://user-images.githubusercontent.com/56252259/125240695-1070bf00-e308-11eb-9091-bba322642216.gif" width="250" height="500"/> | <img src="https://user-images.githubusercontent.com/56252259/125241249-d5bb5680-e308-11eb-96d2-00425b13896a.gif" width="250" height="500"/> | <img src="https://user-images.githubusercontent.com/56252259/125241369-f97e9c80-e308-11eb-83a4-a1627c9949f8.gif" width="250" height="500"/>
 
 ## How to Stop Confetti ? ❌
 * To stop confetti just write this one line of code
