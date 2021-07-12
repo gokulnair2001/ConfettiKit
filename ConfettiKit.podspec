@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://github.com/gokulnair2001'
 
   s.ios.deployment_target = '12.1'
-  s.swift_version = '5.4'
+  s.swift_version = '5'
   s.source_files = 'Sources/**/*.swift'
   
   # s.resource_bundles = {
