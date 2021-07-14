@@ -121,7 +121,7 @@ Confetti.stopConfetti()
 -->
 ## License
 
-ConfettiKit is available under the MIT license. See the LICENSE file for more info.
+ConfettiKit is available under the MIT license. See the [LICENSE file](https://github.com/gokulnair2001/ConfettiKit/blob/master/LICENSE) for more info.
 
 ## Like the Project ?
 If you like using any of my projects or like what I'm doing, please do consider backing me with appreciating my work: [Message me](https://twitter.com/GokulNair2303)🥰
