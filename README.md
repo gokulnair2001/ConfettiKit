@@ -3,7 +3,7 @@
 # ConfettiKit🎉
 
 [![CI Status](https://img.shields.io/travis/gokulnair2001/ConfettiKit.svg?style=flat)](https://travis-ci.org/gokulnair2001/ConfettiKit)
-[![Version](https://img.shields.io/cocoapods/v/ConfettiKit.svg?style=flat)](https://cocoapods.org/pods/ConfettiKit)
+[![Versions](https://img.shields.io/cocoapods/v/ConfettiKit.svg?style=flat)](https://cocoapods.org/pods/ConfettiKit)
 ![Badges](https://img.shields.io/badge/License-MIT-yellow) 
 [![Platform](https://img.shields.io/cocoapods/p/ConfettiKit.svg?style=flat)](https://cocoapods.org/pods/ConfettiKit)
 [![Relative date](https://img.shields.io/date/1577392258?color=important&label=started&logo=github)](https://github.com/gokulnair2001/ConfettiKit) 
