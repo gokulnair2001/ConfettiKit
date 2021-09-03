@@ -93,8 +93,10 @@ Confetti.generateConfetti(ConfettiPosition:Position, ConfettiCells:Int, Confetti
 |-- | -- | -- |
 <img src="https://user-images.githubusercontent.com/56252259/125240695-1070bf00-e308-11eb-9091-bba322642216.gif" width="250" height="500"/> | <img src="https://user-images.githubusercontent.com/56252259/125241249-d5bb5680-e308-11eb-96d2-00425b13896a.gif" width="250" height="500"/> | <img src="https://user-images.githubusercontent.com/56252259/125241369-f97e9c80-e308-11eb-83a4-a1627c9949f8.gif" width="250" height="500"/>
 
+* Above given confettis are example project, you can cutomise it with your favourite confetti style.
+
 ## How to Stop Confetti ? ❌
-* To stop confetti just write this one line of code
+* To stop confetti add:
 ```swift
 Confetti.stopConfetti()
 ```
