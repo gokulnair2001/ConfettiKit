@@ -16,7 +16,7 @@
 ![Watchers](https://img.shields.io/github/watchers/gokulnair2001/ConfettiKit?label=Watch)
 
 ## About 📒
-ConfettiKit is a framework used to add Confetti on your iOS/iPadOS projects. The kit provides variety of customisations inorder to design a confetti which matches your project's UI. ConfettiKit makes your work of adding Confetti on your project with just one line of code.
+ConfettiKit is a custom framework used to add Confetti on your iOS/iPadOS projects. The kit provides variety of customisations inorder to design a confetti which matches your project's UI. ConfettiKit makes your work of adding Confetti on your project with just one line of code.
 
 ## Playground 💻
 
