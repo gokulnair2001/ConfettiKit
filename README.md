@@ -63,9 +63,6 @@ Confetti.generateConfetti(ConfettiPosition:Position, ConfettiCells:Int, Confetti
 ```
 ### Parameters 🎛
 
-<table>
-<tr><td>
-
 | Parameter | Definition  |             
 | --- | --- |
 | ConfettiPosition | Position from which confetti Starts |
@@ -74,19 +71,12 @@ Confetti.generateConfetti(ConfettiPosition:Position, ConfettiCells:Int, Confetti
 | Colours | Colour to apply on every Cells |
 | Scale | Size of cell | 
 | BirthRate | Cells produced in a sec |
-
- </td><td> 
-
-| Parameter | Definition |             
-| --- | --- |
 | LifeTime | Total existence of a cell|
 | Velocity | Speed of cell |
 | Spin | Rotation velocity of cell|
 | EmissionLongitude | longitudinal orientation of the emission angle |
 | EmissionRange | Angle(radians), defining a cone around the emission angle |
 | View | View on which Confetti is to be applied |
-
-</td></tr> </table>
 
 ## Result 💯
 | Customization 1 | Customization 2 | Customization 3 |
