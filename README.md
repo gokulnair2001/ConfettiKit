@@ -38,17 +38,11 @@ To install it, simply add the following line to your Podfile:
 pod 'ConfettiKit'
 ```
 ## No CocoaPods❗️
-<details>
-<summary>
- I have a solution 👀
-</summary>
- 
+
  * Add this [Confetti.swift file](https://github.com/gokulnair2001/ConfettiKit/tree/master/Sources) into your project.</br>
  * Now you are ready to use ConfettiKit 🚀.</br>
  * Remaining steps are same 😁.</br>
  * Do read the documentation till the end to know more about ConfettiKit 💪🏼 </br>
-
-</details>
 
 ## Usage ⚙️
 1. Import Library 📚
